@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+<Book categorie="yoga">
+<Book_Title>abc</Book_Title>
+<Book_Author> abc</Book_Author>
+<Book_Price> 67</Book_Price>
+</Book>
+<Book categorie="story">
+<Book_Title>abc</Book_Title>
+<Book_Author> abc</Book_Author>
+<Book_Price> 67</Book_Price>
+</Book>
+<Book categorie="technical">
+<Book_Title>abc</Book_Title>
+<Book_Author> abc</Book_Author>
+<Book_Price> 67</Book_Price>
+</Book>
+</books>

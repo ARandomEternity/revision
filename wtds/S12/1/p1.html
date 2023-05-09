@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<body>
+	<script type = "text/javascript">
+		function print()
+		{
+			var ob = false;
+			ob = new XMLHttpRequest();
+			
+			ob.open("GET","p2.php");
+			ob.send();
+			
+			ob.onreadystatechange= function()
+			{
+				if(ob.readyState == 4 && ob.status == 200)
+				{
+					document.getElementById("i").innerHTML = ob.responseText;
+				}
+			}
+		}	
+	</script>
+	<center> 
+	<h3> Content of .dat file </h3>
+	<input type= "button" value = "Print" onclick= "print()">
+	<span id = "i"> </span>
+	</center>
+</body>
+</html>

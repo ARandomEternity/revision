@@ -1,0 +1,28 @@
+<?xml version= "1.0" encoding ="UTF-8"?>
+<Itemlist>
+    <Item>
+        <ItemName>Book</ItemName>
+        <ItemPrice>500</ItemPrice>
+        <Quantity>5</Quantity>
+    </Item>
+    <Item>
+        <ItemName>Blue Pen</ItemName>
+        <ItemPrice>20</ItemPrice>
+        <Quantity>15</Quantity>
+    </Item>
+    <Item>
+        <ItemName>Pencil</ItemName>
+        <ItemPrice>5</ItemPrice>
+        <Quantity>10</Quantity>
+    </Item>
+    <Item>
+        <ItemName>Eraser</ItemName>
+        <ItemPrice>15</ItemPrice>
+        <Quantity>34</Quantity>
+    </Item>
+    <Item>
+        <ItemName>Scale</ItemName>
+        <ItemPrice>30</ItemPrice>
+        <Quantity>30</Quantity>
+    </Item>
+</Itemlist>
