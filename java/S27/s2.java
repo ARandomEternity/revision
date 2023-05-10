@@ -1,0 +1,1 @@
+//2. Write a SERVLET program to change inactive time interval of session.
